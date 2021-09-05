@@ -1,0 +1,2 @@
+myfancyjavaproject.Fancy
+myfancyjavaproject.MyFancyJavaProject
