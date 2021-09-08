@@ -1,2 +1,4 @@
 myfancyjavaproject.Fancy
+myfancyjavaproject.Fancy2
+myfancyjavaproject.FancyFactory
 myfancyjavaproject.MyFancyJavaProject
